@@ -1,1 +1,0 @@
-# counterfeit-seeker-RESTful-API
